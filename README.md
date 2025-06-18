@@ -27,5 +27,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JJAdalid&hide_border=true&show_icons=true&theme=react&bg_color=0D1117&icon_color=79ff97" alt="Juanje Adalid's GitHub stats" style="display:inline-block; margin-right:20px; width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJAdalid&hide_border=true&bg_color=0D1117&layout=compact&theme=aura" alt="Top Languages" style="display:inline-block; width: 35%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJAdalid&layout=compact&theme=github_dark" />
 </p>
